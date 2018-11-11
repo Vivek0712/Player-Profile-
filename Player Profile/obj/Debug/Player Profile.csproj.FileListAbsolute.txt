@@ -1,0 +1,14 @@
+C:\Vivek Raja\Player Profile\Player Profile\bin\Debug\Player Profile.exe.config
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player Profile.csprojResolveAssemblyReference.cache
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.Properties.Resources.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player Profile.csproj.GenerateResource.Cache
+C:\Vivek Raja\Player Profile\Player Profile\bin\Debug\Player Profile.exe
+C:\Vivek Raja\Player Profile\Player Profile\bin\Debug\Player Profile.pdb
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player Profile.exe
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player Profile.pdb
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.login.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.displaymenu.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.mainmenu.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.insert.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.delete.resources
+C:\Vivek Raja\Player Profile\Player Profile\obj\Debug\Player_Profile.update.resources
